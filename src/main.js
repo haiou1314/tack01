@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './04_v-for更新监测.vue'
+import App from './06_动态style.vue'
 
 Vue.config.productionTip = false
 
