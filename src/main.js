@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App.vue'
+import App from './01_vue指令_v-html和v-text的区别.vue'
 
 Vue.config.productionTip = false
 
