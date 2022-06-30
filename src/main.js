@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './08_案例_品牌管理.vue'
+import App from './09_附加练习_1.帅哥美女走一走.vue'
 import '../node_modules/bootstrap/dist/css/bootstrap.css'
 
 Vue.config.productionTip = false
